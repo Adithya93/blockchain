@@ -15,4 +15,4 @@ private:
   vector<Block> _vChain;
 
   Block _GetLastBlock() const;
-}
+};

@@ -21,4 +21,4 @@ private:
   time_t _tTime;
 
   string _CalculateHash() const;
-}
+};

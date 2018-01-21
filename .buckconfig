@@ -1,2 +1,3 @@
 [cxx]
   cxx = /usr/bin/g++
+  cxxflags = -Wall -g -std=c++11
