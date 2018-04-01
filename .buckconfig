@@ -1,3 +1,5 @@
 [cxx]
   cxx = /usr/bin/g++
   cxxflags = -Wall -g -std=c++11
+  ld = /usr/bin/g++
+  ldflags = -lssl.1.1 -lcrypto.1.1 -lglog -lfolly -lboost_system -lthrift -lthriftcpp2

@@ -1,2 +1,6 @@
 .buckd/*
 buck-out/*
+fbthrift
+openssl
+default_priv.pem default_pub.pem other_priv.pem other_pub.pem
+uWebSockets
